@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project was completed as part of the **AnalystLab Africa Experience Lab Internship Programme — Week 5 Data Analytics Track**.
+This project was completed as part of the **AnalystLab Africa Experience Lab Internship Programme - Week 5 Data Analytics Track**.
 
 The project focuses on analysing SwiftLog Logistics Limited's business operations using Power BI. It transforms logistics data into interactive dashboards and business insights to support decision-making, monitor performance, and identify opportunities for operational improvement.
 
@@ -19,19 +19,19 @@ The project aims to help SwiftLog management:
 
 ## Tools and Technologies
 
-- **Microsoft Power BI Desktop** — interactive dashboards and data visualisation.
-- **Power Query** — data cleaning and transformation.
-- **DAX (Data Analysis Expressions)** — KPI calculations and business metrics.
+- **Microsoft Power BI Desktop** - interactive dashboards and data visualisation.
+- **Power Query** - data cleaning and transformation.
+- **DAX (Data Analysis Expressions)** - KPI calculations and business metrics.
 
 ## Dashboard Pages
 
 The Power BI report contains five pages:
 
-1. **Executive Dashboard** — overview of revenue, orders, customers, shipments, delivery performance, and returned orders.
-2. **Customer Analytics** — customer revenue, order activity, and customer trends.
-3. **Inventory & Warehouse** — inventory levels, low-stock products, and warehouse comparisons.
-4. **Shipment & Delivery** — shipment trends, delivery status, and delayed shipments.
-5. **Supplier & Product** — supplier directory, product categories, and revenue by product.
+1. **Executive Dashboard** - overview of revenue, orders, customers, shipments, delivery performance, and returned orders.
+2. **Customer Analytics** - customer revenue, order activity, and customer trends.
+3. **Inventory & Warehouse** - inventory levels, low-stock products, and warehouse comparisons.
+4. **Shipment & Delivery** - shipment trends, delivery status, and delayed shipments.
+5. **Supplier & Product** - supplier directory, product categories, and revenue by product.
 
 ## Key Findings
 
@@ -69,7 +69,7 @@ Based on the dashboard findings, the project recommends:
 2. Review dispatch and warehouse processes to identify avoidable delays.
 3. Monitor low-stock products to support timely replenishment.
 4. Improve supplier data integration to enable supplier performance analysis.
-5. Record warehouse capacity to measure warehouse utilisation accurately.
+5. Record warehouse capacity to measure warehouse utilization accurately.
 6. Capture dispatch and delivery timestamps to calculate delivery duration.
 7. Improve regional data collection to compare delivery performance across regions.
 8. Link returns to individual products or order items to identify product-specific return issues.
@@ -81,7 +81,7 @@ Based on the dashboard findings, the project recommends:
 Some metrics requested in the assignment could not be reliably calculated from the available fields:
 
 - Supplier performance scoring requires a suitable relationship between supplier, product, and shipment records.
-- Warehouse utilisation requires warehouse capacity data.
+- Warehouse utilization requires warehouse capacity data.
 - Delivery duration requires dispatch and delivery timestamps.
 - Regional delivery analysis requires a usable region field.
 - Product-level return rates require returns to be linked to products or order items.
@@ -117,8 +117,4 @@ swiftlog-logistics-analytics/
 
 ## Conclusion
 
-This project demonstrates the use of business intelligence techniques to transform logistics data into actionable business insights. It provides a foundation for monitoring operational performance and identifying areas for improvement, while highlighting data integration gaps that should be addressed in future analytics initiatives.
-
-## Responsible Data Sharing
-
-This repository is intended to showcase the project and its analytical approach. Original datasets should only be published if their redistribution is authorised. Where permission is unavailable or uncertain, keep the datasets private and share only permitted project materials.
+This project demonstrates how business intelligence techniques can transform logistics data into actionable business insights. It provides a foundation for monitoring operational performance and identifying areas for improvement, while highlighting data integration gaps that should be addressed in future analytics initiatives.
